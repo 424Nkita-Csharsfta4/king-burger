@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "King-burger",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
