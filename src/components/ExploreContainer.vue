@@ -1,7 +1,7 @@
 <template>
   <div id="container">
-    <strong>{{ name }}</strong>
-    <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+   
+   
   </div>
 </template>
 
@@ -18,6 +18,9 @@ export default defineComponent({
 
 <style scoped>
 #container {
+  background-color: inherit;
+  color: inherit;
+  opacity: 1;
   text-align: center;
   position: absolute;
   left: 0;
@@ -29,12 +32,13 @@ export default defineComponent({
 #container strong {
   font-size: 20px;
   line-height: 26px;
+  color: inherit;
 }
 
 #container p {
   font-size: 16px;
   line-height: 22px;
-  color: #8c8c8c;
+  color: inherit;
   margin: 0;
 }
 
