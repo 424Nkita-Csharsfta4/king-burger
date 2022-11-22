@@ -61,3 +61,10 @@ export default defineComponent({
   components: { ExploreContainer,  IonToolbar, IonTitle,  IonPage, IonInput, IonItem, IonLabel,IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle}
 });
 </script>
+<style> 
+  img{
+    border-radius: 7px;
+  }
+ 
+  
+</style>
