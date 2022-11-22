@@ -11,4 +11,9 @@
 
 ![image](https://user-images.githubusercontent.com/103760832/203261568-bcfda22a-570b-417b-b407-783a2b1c6d5d.png)
 
-
+````
+npm install
+````
+````
+ionic serve
+````
